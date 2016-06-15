@@ -21,10 +21,7 @@
     "direction": "FortyFiveUp", 
     "dateString": "2016-06-14T13:48:10-07:00", 
     "date": 1465937290000, 
-    "unfiltered": 140768, 
-    "filtered": 135008, 
     "device": "openaps://cgm", 
-    "rssi": 196, 
     "sgv": 156, 
     "type": "sgv", 
     "glucose": 156
