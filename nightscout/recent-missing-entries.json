@@ -17,22 +17,6 @@
   }, 
   {
     "trend_arrow": "FLAT", 
-    "display_time": "2016-06-18T05:23:13-07:00", 
-    "noise": 1, 
-    "system_time": "2016-06-18T12:14:54-07:00", 
-    "direction": "Flat", 
-    "sgv": 74, 
-    "dateString": "2016-06-18T05:23:13-07:00", 
-    "device": "openaps://cgm", 
-    "unfiltered": 93520, 
-    "rssi": 199, 
-    "date": 1466252593000, 
-    "filtered": 96288, 
-    "type": "sgv", 
-    "glucose": 74
-  }, 
-  {
-    "trend_arrow": "FLAT", 
     "display_time": "2016-06-18T06:03:14-07:00", 
     "noise": 1, 
     "system_time": "2016-06-18T12:54:54-07:00", 
@@ -193,6 +177,22 @@
   }, 
   {
     "trend_arrow": "FLAT", 
+    "display_time": "2016-06-18T09:53:12-07:00", 
+    "noise": 1, 
+    "system_time": "2016-06-18T16:44:53-07:00", 
+    "direction": "Flat", 
+    "sgv": 110, 
+    "dateString": "2016-06-18T09:53:12-07:00", 
+    "device": "openaps://cgm", 
+    "unfiltered": 127536, 
+    "rssi": 190, 
+    "date": 1466268792000, 
+    "filtered": 129776, 
+    "type": "sgv", 
+    "glucose": 110
+  }, 
+  {
+    "trend_arrow": "FLAT", 
     "display_time": "2016-06-18T09:48:12-07:00", 
     "noise": 1, 
     "system_time": "2016-06-18T16:39:53-07:00", 
@@ -206,37 +206,5 @@
     "filtered": 130992, 
     "type": "sgv", 
     "glucose": 112
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-18T09:43:12-07:00", 
-    "noise": 1, 
-    "system_time": "2016-06-18T16:34:53-07:00", 
-    "direction": "Flat", 
-    "sgv": 113, 
-    "dateString": "2016-06-18T09:43:12-07:00", 
-    "device": "openaps://cgm", 
-    "unfiltered": 129984, 
-    "rssi": 186, 
-    "date": 1466268192000, 
-    "filtered": 131200, 
-    "type": "sgv", 
-    "glucose": 113
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-18T09:38:12-07:00", 
-    "noise": 1, 
-    "system_time": "2016-06-18T16:29:53-07:00", 
-    "direction": "Flat", 
-    "sgv": 113, 
-    "dateString": "2016-06-18T09:38:12-07:00", 
-    "device": "openaps://cgm", 
-    "unfiltered": 130544, 
-    "rssi": 187, 
-    "date": 1466267892000, 
-    "filtered": 130080, 
-    "type": "sgv", 
-    "glucose": 113
   }
 ]
